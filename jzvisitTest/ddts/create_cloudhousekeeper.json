@@ -1,0 +1,18 @@
+{
+    "case1": {
+        "phone": "15377319326",
+        "expect_num": "4"
+    },
+    "case2": {
+        "phone": "15377319327",
+        "expect_num": "0"
+    },
+    "case3": {
+        "phone": "15377319328",
+        "expect_num": "4"
+    },
+    "case4": {
+        "phone": "15377319329",
+        "expect_num": "4"
+    }
+}
